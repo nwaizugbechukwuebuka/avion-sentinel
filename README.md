@@ -38,7 +38,7 @@ DoS/DDoS attempts on ground comms servers.
 
 In this project, these risks were recreated in a simulated aircraft communications lab to test detection, prevention, and response.
 
-##⚙ Methodology
+## ⚙ Methodology
 
 Phase 1 — Threat Modeling
 
