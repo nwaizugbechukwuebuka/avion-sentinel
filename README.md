@@ -1,5 +1,6 @@
-✈ Secure Aircraft Communications: Penetration Testing & Hardening
-📌 Overview
+# ✈ Secure  Aircraft Communications: Penetration Testing & Hardening
+
+## 📌 Overview
 
 This project simulates cyber threats against aircraft communication and control systems in a controlled lab environment. It demonstrates:
 
@@ -11,7 +12,7 @@ Curiosity-driven research into aviation cyber risks such as GPS spoofing and mis
 
 ⚠ Ethical note: All simulations are fully contained in lab environments. No real aircraft systems or production infrastructure were targeted.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Simulate real-world attacker techniques against an aircraft-like communication platform.
 
@@ -23,7 +24,7 @@ Build SIEM detections and aviation-specific incident response playbooks.
 
 Research emerging risks such as GPS spoofing and misinformation in flight operations.
 
-🔍 Scenario Context
+## 🔍 Scenario Context
 
 Aircraft rely on SaaS-style platforms for communication, scheduling, and maintenance updates. These systems are attractive targets for attackers:
 
@@ -37,7 +38,7 @@ DoS/DDoS attempts on ground comms servers.
 
 In this project, these risks were recreated in a simulated aircraft communications lab to test detection, prevention, and response.
 
-⚙ Methodology
+##⚙ Methodology
 
 Phase 1 — Threat Modeling
 
@@ -79,7 +80,7 @@ Researched misinformation injection into comms channels.
 
 Mapped threats to MITRE ATT&CK for ICS/aviation.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 secure-aircraft-communications/
 │
@@ -96,7 +97,7 @@ secure-aircraft-communications/
 ├── docs/                      # MITRE mapping, aviation notes, research appendix
 └── screenshots/               # Lab evidence (phishing, replay, alerts)
 
-📈 Business Impact
+## 📈 Business Impact
 
 Enhances safety and trust in aircraft communication platforms.
 
@@ -106,7 +107,7 @@ Builds resilience into SaaS-style aviation systems, relevant to enterprise commu
 
 Strengthens regulatory and compliance posture for safety-critical industries.
 
-🧾 Key Learnings
+## 🧾 Key Learnings
 
 Safety-critical systems require integrity and authenticity first.
 
@@ -116,7 +117,7 @@ SIEM and playbooks shorten detection/response cycles in aviation crises.
 
 Curiosity (GPS spoofing, misinformation research) adds forward-looking value to security engineering.
 
-🛠 Skills Demonstrated
+## 🛠 Skills Demonstrated
 
 Penetration Testing (Burp Suite, OWASP ZAP, Nmap)
 
